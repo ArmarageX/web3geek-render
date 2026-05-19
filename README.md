@@ -1,2 +1,3 @@
-# web3geek-render
-Render static site source for Web3Geek cloud stack
+# Web3Geek Render Static Site
+
+Static source for the Web3Geek Render cloud-stack article.
