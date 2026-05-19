@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: web3geek-r
+    env: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
